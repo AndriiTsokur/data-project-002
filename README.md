@@ -17,4 +17,4 @@ __The tools used are:__
 - Python
 - Jupyter Notebook
 
-The step-by-step milestones and final result are shown here
+The step-by-step milestones and final result are shown [here](https://github.com/AndriiTsokur/data-project-002/blob/main/exploring_hacker_news_posts.ipynb)
